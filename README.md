@@ -19,7 +19,7 @@ A simple Laravel task management application built with Docker that allows you t
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Khrischatyy/task-manager.git
 cd task-manager
 ```
 
